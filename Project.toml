@@ -4,3 +4,4 @@ uuid = "a8bb5b6a-e7f4-11e8-2da0-6dad479bf532"
 version = "0.1.0"
 
 [deps]
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
